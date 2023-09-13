@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Timur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\Timur\\OneDrive\\Desktop\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timur\\AppData\\Roaming\\NuGet\\NuGet.Config"
